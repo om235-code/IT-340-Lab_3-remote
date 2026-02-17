@@ -1,0 +1,31 @@
+commit 9b7c1bb120afd56f4a30cddb4996fa0f2b06794d
+Author: Omar Mohamed <om235@njit.edu>
+Date:   Tue Feb 17 00:03:25 2026 -0500
+
+    Revert "added temporary files"
+    
+    This reverts commit b27cfc5728a6544f0842dd39309c5ac9ed129fc7.
+
+commit b27cfc5728a6544f0842dd39309c5ac9ed129fc7
+Author: Omar Mohamed <om235@njit.edu>
+Date:   Tue Feb 17 00:02:23 2026 -0500
+
+    added temporary files
+
+commit 4c9df60724a3e9b6e8763245ac28b7039ccc827e
+Author: Omar Mohamed <om235@njit.edu>
+Date:   Mon Feb 16 23:56:07 2026 -0500
+
+    Edited hostname file
+
+commit 4aac51786198ca11005f48ea152403d2b1a8abf0
+Author: Omar Mohamed <om235@njit.edu>
+Date:   Mon Feb 16 20:53:10 2026 -0500
+
+    added comment to os-release
+
+commit d1c51b39646b2140e61925f9a57e972838048f44
+Author: Omar Mohamed <om235@njit.edu>
+Date:   Mon Feb 16 20:40:02 2026 -0500
+
+    Initial commit
